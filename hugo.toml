@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://main.d2fko5qmtvvvak.amplifyapp.com/'
 languageCode = 'en-us'
 title = 'Matt Marsico'
 theme = "gokarna"
@@ -103,11 +103,11 @@ pygmentsStyle = "monokai"
 [minify]
     minifyOutput = true
 
-[deployment]
-
-[[deployment.targets]]
-name = "production"
+# [deployment]
+#
+# [[deployment.targets]]
+# name = "production"
 # Amazon Web Services S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://<Bucket Name>?region=<AWS region>"
+# URL = "s3://<Bucket Name>?region=<AWS region>"
 
