@@ -35,7 +35,7 @@ pygmentsStyle = "monokai"
     </script>
   """
 
-  description = "Student, learner, doer"
+  description = "Passionate Learner, Performer, Doer"
   # footer = "The Marauders"
   metaKeywords = ["blog", "hugo", "matt", "marsico", "portfolio"]
   showBackToTopButton = true # true or false for "back to top" button on posts and pages
