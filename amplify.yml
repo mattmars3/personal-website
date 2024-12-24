@@ -46,7 +46,7 @@ frontend:
         - git config --add core.quotepath false
     build:
       commands:
-        - hugo --gc --minify --baseUrl https://mattmarsico.com/
+        - hugo --gc --minify --baseURL https://mattmarsico.com/
   artifacts:
     baseDirectory: public
     files:
