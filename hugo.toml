@@ -42,7 +42,7 @@ pygmentsStyle = "monokai"
 
   socialIcons = [
     # {name = "twitter", url = "https://example.com"},
-    {name = "linkedin", url = "www.linkedin.com/in/matt-marsico-b050b2274"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/matt-marsico-b050b2274"},
     # {name = "stackoverflow", url = "https://example.com"},
     # {name = "dribbble", url = "https://example.com"},
     {name = "instagram", url = "https://www.instagram.com/mjmarsico/"},
@@ -51,19 +51,19 @@ pygmentsStyle = "monokai"
     {name = "github", url = "https://github.com/mattmars3"}
   ]
 
-# [menu]
-#   [[menu.main]]
-#     name = "Home"
-#     pre = "<span data-feather='home'></span>"
-#     url = "/"
-#     weight = 1
-#
-#   [[menu.main]]
-#     name = "Posts"
-#     pre = "<span data-feather='book'></span>"
-#     url = "/posts/"
-#     weight = 2
-#
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
+    weight = 2
+
 #   [[menu.main]]
 #     name = "Projects"
 #     pre = "<span data-feather='code'></span>"
